@@ -5,7 +5,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gabolonhez&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
-
+<div style="display: inline_block"><br>
+ <div align="center">
+  <a href="https://github.com/Gabolonhez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabolonhez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabolonhez&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  
 <!-- **Tecnologias:**
 - 🖥️ Experiência: HTML
  <br>
@@ -27,13 +34,6 @@
 <a href = "https://github.com/Gabolonhez?tab=repositories"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" target="_blank"></a>
 <a href = "mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=black" target="_blank"></a>
 
-<div style="display: inline_block"><br>
- <div align="center">
-  <a href="https://github.com/Gabolonhez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabolonhez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabolonhez&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
  
    
   ![Snake animation](https://github.com/albrechetti/albrechetti/blob/output/github-contribution-grid-snake.svg)
