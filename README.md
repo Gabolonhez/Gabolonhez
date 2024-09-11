@@ -1,6 +1,6 @@
 <img width=100% src="https://user-images.githubusercontent.com/125428490/230164350-a03900f3-8ac3-4e09-9268-c069ad9b72c5.png"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC3232FF&size=35&center=true&vCenter=true&width=1000&lines=Hey...+My+name+is+Gabriel!;I'm+19+years+old;I'm+Brazilian;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC3232FF&size=35&center=true&vCenter=true&width=1000&lines=Hey...+My+name+is+Gabriel+Bolonhez!;I'm+19+years+old;I'm+Brazilian;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   
 <!-- **Tecnologias:**
@@ -18,13 +18,13 @@
   <div align="left">
   - HTML
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img width="8" />
   - CSS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img width="8" />
   - JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="8" />
   - Python
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
    - Developing others...
