@@ -37,7 +37,7 @@
 <a href = "https://github.com/Gabolonhez?tab=repositories"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" target="_blank"></a>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabolonhez&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabolonhez&layout=compact&langs_count=7&theme=dark"/>
 </p>
 <div style="display: inline_block"><br>
  <div align="center">
