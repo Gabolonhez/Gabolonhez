@@ -32,7 +32,7 @@
 </div>
   
   ### Contact:
-<a href = "https://www.linkedin.com/in/Gabriel-BF/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=red&color=black" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/gabriel-bolonhez/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=red&color=black" target="_blank"></a>
 <a href = "mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=black" target="_blank"></a>
 <a href = "https://github.com/Gabolonhez?tab=repositories"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" target="_blank"></a>
 
