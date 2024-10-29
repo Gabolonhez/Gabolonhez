@@ -2,13 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC3232FF&size=35&center=true&vCenter=true&width=1000&lines=Hey...+My+name+is+Gabriel+Bolonhez!;I'm+19+years+old;I'm+Brazilian;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  
+ ## About me
+
+- 💻 Studying front-end development and tecnology tools.
+- 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André.
+- 💼 Working as an IT service desk at Tecnocomp.
 <!-- 
 - 🖥️ Experience: HTML
  <br>
  <strong>Contatos:</strong> -->
-
-                                       
   <!-- <div> 
   <a href = "mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div> -->
