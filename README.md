@@ -14,18 +14,9 @@
   </div> -->
   
   ### **Technologies and Tools**:
-  <div align="left">
-  - HTML
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="8" />
-  - CSS
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="8" />
-  - JavaScript
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="8" />
    -  Git
     ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" alt="Git logo"  />
