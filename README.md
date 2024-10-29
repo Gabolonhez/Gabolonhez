@@ -17,22 +17,10 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-   -  Git
-    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" alt="Git logo"  />
-  <img width="8" />
-    - Github
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" alt="Git logo"  />
-  <img width="8" />
-    - Vscode
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" alt="Git logo"  />
-  <img width="8" />
-    - Figma
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" alt="Git logo"  />
-  <img width="8" />
    - Developing others...
  
 </div>
