@@ -6,7 +6,7 @@
 - 💻 Studying front-end development and technology tools.
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André.
 - 💼 Working as an IT service desk at Tecnocomp.
-- ✔ Check my projects in the repositories section
+- 🚀 Check my projects in the repositories section
 <!-- 
 - 🖥️ Experience: HTML
  <br>
