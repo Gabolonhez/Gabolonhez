@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c2f76&size=35&center=true&vCenter=true&width=1000&lines=Hey...+My+name+is+Gabriel+Bolonhez!;I'm+Brazilian;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  ## About me
-- 💻 Studying front-end development and technology tools.
-- 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André.
-- 💼 Working as an IT service desk at Tecnocomp.
+- 💻 Studying front-end development and technology tools
+- 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André
+- 💼 Working as an IT service desk at Tecnocomp
 - 🚀 Check my projects in the repositories section
 <!-- 
 - 🖥️ Experience: HTML
