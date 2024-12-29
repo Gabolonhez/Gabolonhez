@@ -36,19 +36,11 @@
 </div>
 
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabolonhez&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
-</p>
-<div style="display: inline_block"><br>
-  
- <div align="center">
-  <a href="https://github.com/Gabolonhez">
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabolonhez&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-    <br><br>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gabolonhez&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-</div>
 
-<div style="display: inline_block"><br>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabolonhez&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabolonhez&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=gabolonhez&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 
  
    
