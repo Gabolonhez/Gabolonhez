@@ -16,7 +16,7 @@
   </div> -->
   
   ## Technologies and tools:
-  <div>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,24 +26,20 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    - Developing others...
- </div>
+
   
   ## Find me:
-<div>
+
   <a href = "https://www.linkedin.com/in/gabolonhez/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=red&color=black" target="_blank"></a>
   <a href = "mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=black" target="_blank"></a>
   <!--<a href = "https://github.com/Gabolonhez?tab=repositories"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" target="_blank"></a> -->
-</div>
 
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabolonhez&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabolonhez&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gabolonhez&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-   <a href="https://github.com/Gabolonhez">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabolonhez&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabolonhez&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabolonhez&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
  
-   
   ![Snake animation](https://github.com/albrechetti/albrechetti/blob/output/github-contribution-grid-snake.svg)
-</div>
