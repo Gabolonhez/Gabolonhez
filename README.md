@@ -34,7 +34,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gbbolonhez@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/gabolonhez/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gabolonhez)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gbbolonhez@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/channels/@gabrieltr1/)
  <!--<a href = "https://github.com/Gabolonhez?tab=repositories"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" target="_blank"></a> -->
  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com) -->
