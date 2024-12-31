@@ -38,8 +38,6 @@ Developing others...
  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com) -->
 
 ## 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabolonhez&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabolonhez&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <div align="center">
 
