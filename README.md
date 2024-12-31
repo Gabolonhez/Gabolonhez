@@ -31,8 +31,8 @@
   
 <a href="https://www.linkedin.com/in/gabolonhez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/gabolonhez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
-<a href="mailto:gbbolonhez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"></a>
 <a href="https://github.com/Gabolonhez" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:gbbolonhez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"></a>
 <!-- 
 <a href="https://discord.com/channels/@gabrieltr1/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
 <a href="https://seulink.com" target="_blank"><img src="https://placehold.it/150x50?text=Seulink" alt="Seulink"></a> 
