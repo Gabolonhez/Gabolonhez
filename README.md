@@ -7,13 +7,7 @@
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André.
 - 💼 Working as an intership of system support at Intertox.
 - 🚀 Check my projects in the repositories section.
-<!-- 
-- 🖥️ Experience: HTML
- <br>
- <strong>Contatos:</strong> -->
-  <!-- <div> 
-  <a href = "mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div> -->
+  
   
 ## Technologies and tools:
 
@@ -33,6 +27,7 @@ Developing others...
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabolonhez/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gbbolonhez@gmail.com)
+ <a href = "mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/gabolonhez/)
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gabolonhez) -->
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/channels/@gabrieltr1/) -->
