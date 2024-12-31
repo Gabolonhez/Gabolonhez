@@ -31,7 +31,7 @@ Developing others...
 
 <div align="left">
   
-<a href="https://www.linkedin.com/in/gabolonhez/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/gabolonhez/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
 <a href="mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"></a>
 <a href="https://www.instagram.com/gabolonhez/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 
