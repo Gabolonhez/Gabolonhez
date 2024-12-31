@@ -41,6 +41,7 @@ Developing others...
 <a href="https://github.com/Gabolonhez?tab=repositories"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" alt="Portfolio"></a>
 <a href="https://seulink.com"><img src="https://placehold.it/150x50?text=Seulink" alt="Seulink"></a> 
 -->
+
 </div>
 
 ## 
