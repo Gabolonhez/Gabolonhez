@@ -6,7 +6,7 @@
 - 💻 Studying front-end development and technology tools.
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André.
 - 💼 Working as an intership of system support at Intertox.
-- 🚀 Check my projects in the repositories section.
+- 🚀 Check my projects in the repositories sectionn <a href="https://github.com/Gabolonhez?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" alt="Portfolio"></a>
   
   
 ## Technologies and tools
@@ -35,7 +35,6 @@
 <a href="https://github.com/Gabolonhez" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <!-- 
 <a href="https://discord.com/channels/@gabrieltr1/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
-<a href="https://github.com/Gabolonhez?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" alt="Portfolio"></a>
 <a href="https://seulink.com" target="_blank"><img src="https://placehold.it/150x50?text=Seulink" alt="Seulink"></a> 
 -->
 
