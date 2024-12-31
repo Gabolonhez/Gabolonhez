@@ -21,10 +21,8 @@
 <img src= "https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
 <img src= "https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src= "https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8">
-
-</div>
-
 Developing others...
+</div>
 
   
 ## Find me
@@ -34,9 +32,8 @@ Developing others...
 <a href="https://www.linkedin.com/in/gabolonhez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:gbbolonhez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"></a>
 <a href="https://www.instagram.com/gabolonhez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
-
-<!-- 
 <a href="https://github.com/Gabolonhez" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+<!-- 
 <a href="https://discord.com/channels/@gabrieltr1/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
 <a href="https://github.com/Gabolonhez?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" alt="Portfolio"></a>
 <a href="https://seulink.com" target="_blank"><img src="https://placehold.it/150x50?text=Seulink" alt="Seulink"></a> 
@@ -44,7 +41,7 @@ Developing others...
 
 </div>
 
-## 
+## Github stats
 
 <div align="center">
 
