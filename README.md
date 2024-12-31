@@ -25,8 +25,9 @@ Developing others...
   
 ## Find me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabolonhez/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gbbolonhez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabolonhez/){:target="_blank"}
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gbbolonhez@gmail.com){:target="_blank"}
+[![Contato](https://img.shields.io/badge/Contato-Envie%20um%20e-mail-brightgreen)](mailto:gbbolonhez@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/gabolonhez/)
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gabolonhez) -->
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/channels/@gabrieltr1/) -->
