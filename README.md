@@ -6,7 +6,7 @@
 - 💻 Studying front-end development and technology tools.
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André.
 - 💼 Working as an intership of system support at Intertox.
-- 🚀 Check my projects in the repositories sectionn <a href="https://github.com/Gabolonhez?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" alt="Portfolio"></a>
+- 🚀 Check my projects in the <a href="https://github.com/Gabolonhez?tab=repositories"> repositories </a> section
   
   
 ## Technologies and tools
