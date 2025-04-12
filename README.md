@@ -5,7 +5,7 @@
 ## About me
 - 💻 Studying front-end development, software quality and some tech tools.
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André. 
-- 💼 Working as an intership of system support at Intertox.
+- 💼 Working as an intership of software quality and support at Intertox.
 - 🚀 Check my projects in the <a href="https://github.com/Gabolonhez?tab=repositories">Repositories</a> section. 
   
   
