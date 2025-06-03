@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c2f76&size=35&center=true&vCenter=true&width=1000&lines=Hey...+My+name+is+Gabriel+Bolonhez!;I'm+Brazilian;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## About me
-- 💻 Studying front-end development, software quality and some tech tools.
+- 💻 Studying software development and some tech tools.
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André. 
 - 💼 Working as an intership of software quality and support at Intertox.
 - 🚀 Check my projects in the <a href="https://github.com/Gabolonhez?tab=repositories">Repositories</a> section.
