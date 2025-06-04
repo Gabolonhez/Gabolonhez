@@ -4,7 +4,7 @@
 
 ## About me
 - 👋 Self-development enthusiast.
-- 💻 Studying software development with focus in front-end and some tech tools.
+- 💻 Studying software development with a focus on front-end and some tech tools.
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André. 
 - 💼 Working as an intership of software quality and support at Intertox.
 - 🚀 Check my projects in the <a href="https://github.com/Gabolonhez?tab=repositories">Repositories</a> section.
