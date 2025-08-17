@@ -4,9 +4,9 @@
 
 ## About me
 - 🧑‍💻💪📚🧠 In personal development.
-- 💻 Studying software development with a focus on front-end and fullstack.
+- 💻 Studying full stack development with a focus on front-end.
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André. 
-- 💼 Working with software quality and support at Intertox.
+- 💼 Working with full stack development and software quality at Intertox.
 - 🚀 Check my projects in the <a href="https://github.com/Gabolonhez?tab=repositories">Repositories</a> section.
   
   
