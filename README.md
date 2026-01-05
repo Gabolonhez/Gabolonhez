@@ -8,7 +8,7 @@
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André. 
 - 💼 Working as a full stack developer.
 - 🚀 Check my projects in the <a href="https://github.com/Gabolonhez?tab=repositories">Repositories</a> section.
-- My portfolio: gabrielbolonhez.vercel.app
+- My portfolio: https://gabrielbolonhez.vercel.app
   
   
 ## Technologies and tools
