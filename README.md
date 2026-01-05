@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c2f76&size=35&center=true&vCenter=true&width=1000&lines=Hey...+My+name+is+Gabriel+Bolonhez!;I'm+Brazilian;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## About me
-- 🧑‍💻💪📚🧠 In personal development.
-- 💻 Studying fullstack development.
+- 🧑‍💻 Working as a FullStack developer.
+- 💻 Studying frontend and backend technologies.
+- 💪📚🧠 Always In personal development.
 - 🎓 Undergradute in Information System at Centro Universitário Fundação Santo André. 
-- 💼 Working as a full stack developer.
 - 🚀 Check my projects in the <a href="https://github.com/Gabolonhez?tab=repositories">Repositories</a> section.
 - My portfolio: https://gabrielbolonhez.vercel.app
   
