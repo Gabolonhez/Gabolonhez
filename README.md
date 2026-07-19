@@ -1,21 +1,9 @@
-<div align="center">
-  <h3>🌐 Select Language / Selecione o Idioma</h3>
-  <p>
-    <a href="#-english">English</a> | <a href="#-portugues">Português</a>
-  </p>
-</div>
-
-<br />
-
-<hr />
-
 <!-- ========================================================================================== -->
-<!-- ENGLISH SECTION -->
+<!-- ENGLISH VERSION (OPEN BY DEFAULT) -->
 <!-- ========================================================================================== -->
-<a id="-english"></a>
 
 <details open>
-  <summary><strong>English Version (Click to expand/collapse)</strong></summary>
+  <summary><strong>🌐 English Version (Click to collapse/expand)</strong></summary>
   <br />
   
   <!-- Typing SVG Header -->
@@ -51,12 +39,11 @@
 <br />
 
 <!-- ========================================================================================== -->
-<!-- PORTUGUESE SECTION -->
+<!-- PORTUGUESE VERSION (CLOSED BY DEFAULT) -->
 <!-- ========================================================================================== -->
-<a id="-portugues"></a>
 
 <details>
-  <summary><strong>Versão em Português (Clique para abrir/fechar)</strong></summary>
+  <summary><strong>🌐 Versão em Português (Clique para abrir/fechar)</strong></summary>
   <br />
   
   <!-- Typing SVG Header -->
@@ -94,7 +81,7 @@
 <hr />
 
 <!-- ========================================================================================== -->
-<!-- UNIVERSAL / COMMON SECTIONS (TECH, LINKS, STATS) -->
+<!-- UNIVERSAL / COMMON SECTIONS (TECH, SOCIALS, STATS) -->
 <!-- ========================================================================================== -->
 
 ## 🛠️ Tech Stack & Tools / Tecnologias & Ferramentas
