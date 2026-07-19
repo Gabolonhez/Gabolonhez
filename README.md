@@ -1,36 +1,103 @@
-<!-- Typing SVG Header -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6366F1&size=28&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Bolonhez%21;Engenheiro+Full-Stack+%28Mobile+%26+Web%29;Bem-vindo+ao+meu+perfil%21+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <h3>🌐 Select Language / Selecione o Idioma</h3>
+  <p>
+    <a href="#-english">English</a> | <a href="#-portugues">Português</a>
+  </p>
 </div>
 
 <br />
-
-<!-- Intro Section -->
-<div align="center">
-  <p>
-    <strong>Engenheiro Full-Stack e de Produto</strong> focado em construir soluções digitais modernas, robustas e de alto impacto. 
-    Lidero a arquitetura, desenvolvimento e escala de ecossistemas (aplicativos móveis, plataformas web e painéis) 
-    com mais de <strong>500 mil downloads</strong> e notas <strong>4.8/4.9 estrelas</strong> nas lojas de aplicativos.
-  </p>
-  <p>
-    🚀 <strong>Atuação com IA de ponta:</strong> Integrando ferramentas avançadas (como Claude Code e Google Antigravity) no ciclo de desenvolvimento de software para refatoração rápida, testes e entregas eficientes.
-  </p>
-</div>
 
 <hr />
 
-## 🧑‍💻 Sobre Mim
+<!-- ========================================================================================== -->
+<!-- ENGLISH SECTION -->
+<!-- ========================================================================================== -->
+<a id="-english"></a>
 
-- 💼 **Virex Tech:** Atuação no Ciclo de Vida Completo (Full Lifecycle) de desenvolvimento e escala de aplicativos móveis e web.
-- 🎓 **Educação:** Graduando em **Sistemas de Informação** no Centro Universitário Fundação Santo André (Previsão: 12/2026).
-- 🧭 **Diferencial:** Ownership de produto, automação contínua de CI/CD e compromisso com design UI/UX de alto padrão.
-- 🌐 **Website:** [gabrielbolonhez.vercel.app](https://gabrielbolonhez.vercel.app)
+<details open>
+  <summary><strong>English Version (Click to expand/collapse)</strong></summary>
+  <br />
+  
+  <!-- Typing SVG Header -->
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6366F1&size=28&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Gabriel+Bolonhez%21;Full-Stack+%26+Product+Engineer;Welcome+to+my+profile%21+%F0%9F%9A%80" alt="Typing SVG" />
+    </a>
+  </div>
+
+  <br />
+
+  <!-- Intro Section -->
+  <div align="center">
+    <p>
+      <strong>Full-Stack & Product Engineer</strong> focused on building modern, robust, and high-impact digital solutions. 
+      I lead the architecture, development, and scaling of digital ecosystems (mobile apps, integrated web platforms, and dashboards) 
+      with over <strong>500K total downloads</strong> and <strong>4.8/4.9-star average ratings</strong> across app stores.
+    </p>
+    <p>
+      🚀 <strong>AI-Assisted Engineering:</strong> Integrating advanced tools (like Claude Code and Google Antigravity) into the software development lifecycle for rapid refactoring, testing, and highly efficient deliveries.
+    </p>
+  </div>
+
+  <br />
+
+  ### 🧑‍💻 About Me
+  - 💼 **Virex Tech:** Full Lifecycle role in the architecture, development, and scaling of mobile apps and supporting web infrastructures.
+  - 🎓 **Education:** Graduating in **Information Systems** at Centro Universitário Fundação Santo André (Expected: 12/2026).
+  - 🧭 **Key Traits:** High product ownership, seamless CI/CD automation pipelines, and commitment to high-standard UI/UX design.
+  - 🌐 **Website:** [gabrielbolonhez.vercel.app](https://gabrielbolonhez.vercel.app)
+</details>
 
 <br />
 
-## 🛠️ Tecnologias & Ferramentas
+<!-- ========================================================================================== -->
+<!-- PORTUGUESE SECTION -->
+<!-- ========================================================================================== -->
+<a id="-portugues"></a>
+
+<details>
+  <summary><strong>Versão em Português (Clique para abrir/fechar)</strong></summary>
+  <br />
+  
+  <!-- Typing SVG Header -->
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6366F1&size=28&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Bolonhez%21;Engenheiro+Full-Stack+%28Mobile+%26+Web%29;Bem-vindo+ao+meu+perfil%21+%F0%9F%9A%80" alt="Typing SVG" />
+    </a>
+  </div>
+
+  <br />
+
+  <!-- Intro Section -->
+  <div align="center">
+    <p>
+      <strong>Engenheiro Full-Stack e de Produto</strong> focado em construir soluções digitais modernas, robustas e de alto impacto. 
+      Lidero a arquitetura, desenvolvimento e escala de ecossistemas (aplicativos móveis, plataformas web e painéis) 
+      com mais de <strong>500 mil downloads</strong> e notas <strong>4.8/4.9 estrelas</strong> nas lojas de aplicativos.
+    </p>
+    <p>
+      🚀 <strong>Atuação com IA de ponta:</strong> Integrando ferramentas avançadas (como Claude Code e Google Antigravity) no ciclo de desenvolvimento de software para refatoração rápida, testes e entregas eficientes.
+    </p>
+  </div>
+
+  <br />
+
+  ### 🧑‍💻 Sobre Mim
+  - 💼 **Virex Tech:** Atuação no Ciclo de Vida Completo (Full Lifecycle) de desenvolvimento e escala de aplicativos móveis e web.
+  - 🎓 **Educação:** Graduando em **Sistemas de Informação** no Centro Universitário Fundação Santo André (Previsão: 12/2026).
+  - 🧭 **Diferencial:** Ownership de produto, automação contínua de CI/CD e compromisso com design UI/UX de alto padrão.
+  - 🌐 **Website:** [gabrielbolonhez.vercel.app](https://gabrielbolonhez.vercel.app)
+</details>
+
+<br />
+
+<hr />
+
+<!-- ========================================================================================== -->
+<!-- UNIVERSAL / COMMON SECTIONS (TECH, LINKS, STATS) -->
+<!-- ========================================================================================== -->
+
+## 🛠️ Tech Stack & Tools / Tecnologias & Ferramentas
 
 ### 🖥️ Frontend & Mobile
 <p align="left">
@@ -46,7 +113,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Backend, Banco de Dados & Infra
+### ⚙️ Backend, Database & Infra
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -57,7 +124,7 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </p>
 
-### 🔧 Outros & Metodologias
+### 🔧 Tools & Methodologies / Ferramentas & Metodologias
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -68,7 +135,7 @@
 
 <br />
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect / Conecte-se
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabolonhez/" target="_blank">
@@ -87,10 +154,9 @@
 
 <hr />
 
-## 📊 Estatísticas do GitHub
+## 📊 Analytics & Stats / Estatísticas
 
 <div align="center">
-  <!-- GitHub Readme Stats cards aligned inline for perfect local preview compatibility -->
   <img src="https://github-readme-stats.vercel.app/api?username=gabolonhez&show_icons=true&theme=tokyonight&bg_color=050508&border_color=6366f1&icon_color=3b82f6&title_color=6366f1&text_color=94a3b8&hide=stars" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabolonhez&theme=tokyonight&bg_color=050508&border_color=6366f1&layout=compact&title_color=6366f1&text_color=94a3b8" alt="Top Langs" width="48%" />
   <br /><br />
@@ -99,7 +165,7 @@
 
 <br />
 
-<!-- Contribution Snake Animation (uses raw URL placeholder) -->
+<!-- Contribution Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/albrechetti/albrechetti/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
