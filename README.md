@@ -33,6 +33,7 @@
   - 💼 **Virex Tech:** Full Lifecycle role in the architecture, development, and scaling of mobile apps and supporting web infrastructures.
   - 🎓 **Education:** Graduating in **Information Systems** at Centro Universitário Fundação Santo André (Expected: 12/2026).
   - 🧭 **Key Traits:** High product ownership, seamless CI/CD automation pipelines, and commitment to high-standard UI/UX design.
+  - 🧠 **Soft Skills:** Active Problem-Solving, Team Collaboration, Fast Adaptability & Learning, Clean Code & Best Practices.
   - 🌐 **Website:** [gabrielbolonhez.vercel.app](https://gabrielbolonhez.vercel.app)
 </details>
 
@@ -73,6 +74,7 @@
   - 💼 **Virex Tech:** Atuação no Ciclo de Vida Completo (Full Lifecycle) de desenvolvimento e escala de aplicativos móveis e web.
   - 🎓 **Educação:** Graduando em **Sistemas de Informação** no Centro Universitário Fundação Santo André (Previsão: 12/2026).
   - 🧭 **Diferencial:** Ownership de produto, automação contínua de CI/CD e compromisso com design UI/UX de alto padrão.
+  - 🧠 **Soft Skills:** Resolução de Problemas, Trabalho em Equipe, Alta Adaptabilidade & Aprendizado Rápido, Código Limpo & Boas Práticas.
   - 🌐 **Website:** [gabrielbolonhez.vercel.app](https://gabrielbolonhez.vercel.app)
 </details>
 
