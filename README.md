@@ -18,7 +18,7 @@
   <!-- Intro Section -->
   <div align="center">
     <p>
-      <strong>Full-Stack & Product Engineer</strong> focused on building modern, robust, and high-impact digital solutions. 
+      <strong>Full-Stack Engineer</strong> focused on building modern, robust, and high-impact digital solutions. 
       I lead the architecture, development, and scaling of digital ecosystems (mobile apps, integrated web platforms, and dashboards) 
       with over <strong>500K total downloads</strong> and <strong>4.8/4.9-star average ratings</strong> across app stores, with thousands of active users.
     </p>
@@ -59,8 +59,8 @@
   <!-- Intro Section -->
   <div align="center">
     <p>
-      <strong>Engenheiro Full-Stack e de Produto</strong> focado em construir soluções digitais modernas, robustas e de alto impacto. 
-      Lidero a arquitetura, desenvolvimento e escala de ecossistemas (aplicativos móveis, plataformas web e painéis) 
+      <strong>Desenvolvedor Full-Stack </strong> focado em construir soluções digitais modernas, robustas e de alto impacto. 
+      Lidero a arquitetura, desenvolvimento e escala de ecossistemas (aplicativos móveis, plataformas web e sites) 
       com mais de <strong>500 mil downloads</strong> e notas <strong>4.8/4.9 estrelas</strong> nas lojas de aplicativos, com milhares de usuários ativos.
     </p>
     <p>
