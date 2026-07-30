@@ -146,9 +146,6 @@
 ## 📊 Analytics & Stats / Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabolonhez&show_icons=true&theme=tokyonight&bg_color=050508&border_color=6366f1&icon_color=3b82f6&title_color=6366f1&text_color=94a3b8&hide=stars" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabolonhez&theme=tokyonight&bg_color=050508&border_color=6366f1&layout=compact&title_color=6366f1&text_color=94a3b8" alt="Top Langs" width="48%" />
-  <br /><br />
   <img src="https://streak-stats.demolab.com/?user=gabolonhez&theme=tokyonight&background=050508&border=6366f1&ring=6366f1&fire=3b82f6&currStreakNum=fff&sideNums=94a3b8&dates=94a3b8" alt="GitHub Streak" width="98%" />
 </div>
 
