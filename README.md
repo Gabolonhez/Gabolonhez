@@ -143,11 +143,8 @@
 
 <hr />
 
-<hr />
-
+<!--
 ## 📊 Analytics & Stats / Estatísticas
-
-<!-- Contador de Views -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=gabolonhez&theme=tokyonight&background=050508&border=6366f1&ring=6366f1&fire=3b82f6&currStreakNum=fff&sideNums=94a3b8&dates=94a3b8" alt="GitHub Streak" width="98%" />
@@ -158,6 +155,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gabolonhez&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+-->
 
 <br />
 
