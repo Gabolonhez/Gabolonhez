@@ -141,9 +141,9 @@
   </a>
 </p>
 
+<!--
 <hr />
 
-<!--
 ## 📊 Analytics & Stats / Estatísticas
 
 <div align="center">
