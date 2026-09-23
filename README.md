@@ -1,11 +1,4 @@
-<!-- ========================================================================================== -->
-<!-- ENGLISH VERSION (OPEN BY DEFAULT) -->
-<!-- ========================================================================================== -->
 
-<details open>
-  <summary><strong>🌐 English Version (Click to collapse/expand)</strong></summary>
-  <br />
-  
   <!-- Typing SVG Header -->
   <div align="center">
     <a href="https://git.io/typing-svg">
@@ -13,6 +6,14 @@
     </a>
   </div>
 
+  <br />
+
+  <!-- ========================================================================================== -->
+<!-- ENGLISH VERSION (OPEN BY DEFAULT) -->
+<!-- ========================================================================================== -->
+
+<details open>
+  <summary><strong>🌐 English Version (Click to collapse/expand)</strong></summary>
   <br />
 
   <!-- Intro Section -->
