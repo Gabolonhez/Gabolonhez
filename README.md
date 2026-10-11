@@ -40,7 +40,7 @@
   - 🎓 **Education:** Graduating in **Information Systems** at Centro Universitário Fundação Santo André (Expected: 12/2026).
   - 🧭 **Key Traits:** High product ownership, seamless CI/CD automation pipelines, and commitment to high-standard UI/UX design.
   - 🧠 **Soft Skills:** Active Problem-Solving, Team Collaboration, Fast Adaptability & Learning, Clean Code & Best Practices.
-  - 🌐 **Website:** [gabrielbolonhez.vercel.app](https://gabrielbolonhez.vercel.app)
+  - 🌐 **Website:** [gabrielbolonhez.vercel.app](https://gabrielbolonhez.com)
 </details>
 
 <br />
