@@ -1,7 +1,7 @@
 
   <!-- Typing SVG Header -->
   <div align="center">
-  <h1 align="center">Gabriel Bolonhez</h1>
+  <h1 align="center">Gabriel Bolonhez Felipe</h1>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=1F6FEB&size=24&center=true&vCenter=true&width=900&lines=Hey%2C+I%27m+Gabriel+Bolonhez%21;Full-Stack+%26+Product+Engineer;Building+and+scaling+apps%21+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
