@@ -81,7 +81,7 @@
   - 🎓 **Educação:** Graduando em **Sistemas de Informação** no Centro Universitário Fundação Santo André (Previsão: 12/2026).
   - 🧭 **Diferencial:** Ownership de produto, automação contínua de CI/CD e compromisso com design UI/UX de alto padrão.
   - 🧠 **Soft Skills:** Resolução de Problemas, Trabalho em Equipe, Alta Adaptabilidade & Aprendizado Rápido, Código Limpo & Boas Práticas.
-  - 🌐 **Website:** [gabrielbolonhez.vercel.app](https://gabrielbolonhez.com)
+  - 🌐 **Website:** [gabrielbolonhez.com](https://gabrielbolonhez.com)
 </details>
 
 <br />
